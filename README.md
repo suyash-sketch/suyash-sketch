@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on myself<br>🌱 I’m currently learning machine learning, python, data science
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suyash-khandagale/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@khandagalesuyash13) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/suyashk_13) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suyash.mkhandagale@gmail.com) 
 
