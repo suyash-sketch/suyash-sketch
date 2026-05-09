@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,flask,docker,git,github,django,linux,scikit-learn,react,numpy,pandas,&theme=dark&perline=13" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,flask,docker,git,github,django,linux,sklearn,react,numpy,pandas&theme=dark&perline=13" />
 
 </div>
 
