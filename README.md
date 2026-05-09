@@ -1,7 +1,13 @@
+<div align="center">
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suyash-khandagale/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@khandagalesuyash13) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/suyashk_13) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suyash.mkhandagale@gmail.com) 
 
-# Tech Stack
+</div>
+
+---  
+
+### Tech Stack
 
 <div align="center">
 
@@ -11,10 +17,18 @@
 
 <div align="center">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=suyash-sketch&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=suyash-sketch&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=suyash-sketch&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
+
+
+### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Igd/giphy.gif" width="25"> GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=suyash-sketch&hide_border=true&background=0D1117&ring=a89fbf&fire=d6aebb&currStreakLabel=d6aebb&sideLabels=a89fbf&currStreakNum=a89fbf&sideNums=d6aebb&dates=555555&stroke=1a1a2e" height="180" />
+
+</div>
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
